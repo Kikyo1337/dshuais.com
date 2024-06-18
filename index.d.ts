@@ -1,7 +1,7 @@
 /*
- * @Author: dushuai
+ * @Author: Steam Game
  * @Date: 2023-12-04 09:32:55
- * @LastEditors: dushuai
+ * @LastEditors: Steam Game
  * @LastEditTime: 2023-12-04 14:36:36
  * @description: d.ts
  */
