@@ -1,7 +1,7 @@
 <!--
- * @Author: dushuai
+ * @Author: Steam Game
  * @Date: 2024-02-21 10:58:28
- * @LastEditors: dushuai
+ * @LastEditors: Steam Game
  * @LastEditTime: 2024-03-11 16:29:35
  * @description: default layout
 -->
@@ -56,7 +56,7 @@ watchEffect(() => {
     setTimeout(() => {
       zoom.value = true
       setTimeout(() => {
-        showMessage(` <b style="color:#fff;">${dateHourTip()}</b> 欢迎访问我的主页`)
+        showMessage(` <b style="color:#fff;">${dateHourTip()}</b> 欢迎来到 Steam Game 热门游戏主页`)
       }, 1200);
     }, 300);
   }
