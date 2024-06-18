@@ -18,7 +18,7 @@ export default defineComponent({
   setup() {
 
     const hitokoto = ref<Hitokoto>({
-      hitokoto: '己所不欲勿施于人',
+      hitokoto: '结局是什么，我们自己慢慢定',
       from: 'dushuai',
     })
 
