@@ -1,7 +1,7 @@
 /*
-* @Author: dushuai
+* @Author: Steam Game
 * @Date: 2024-02-27 17:28:59
- * @LastEditors: dushuai
+ * @LastEditors: Steam Game
  * @LastEditTime: 2024-02-27 18:04:28
 * @description: 壁纸切换方式
 */
